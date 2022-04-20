@@ -4,4 +4,4 @@
 
 Transformando o mundo através da tecnologia
 
-Clique aqui para acessar nosso [site](https://www.estartandodevs.com.br/).
+Clique [aqui para acessar nosso site](https://www.estartandodevs.com.br/).
